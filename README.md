@@ -108,7 +108,7 @@ screenshots/
 Electronics & Communication Engineering Student
 
 🔗 GitHub: https://github.com/yuns09
-🔗 LinkedIn: (add your profile link)
+🔗 LinkedIn: www.linkedin.com/in/mo-yunus-63782035b
 
 ---
 
