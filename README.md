@@ -1,19 +1,18 @@
 # ☕ Luma Roast – Shopify eCommerce Store
 
-A premium Shopify eCommerce store built using the Dawn theme, designed to deliver a clean UI, smooth user experience, and high-conversion layout.
+A premium Shopify eCommerce store built using the **Dawn theme**, designed with a modern UI, smooth user experience, and real-world eCommerce functionality.
 
 ---
 
 ## 🚀 Project Overview
 
-Luma Roast is a modern coffee store focused on:
+**Luma Roast** is a modern coffee brand store focused on delivering a seamless and engaging online shopping experience.
 
-* Elegant UI design
-* Optimized product display
-* Smooth shopping experience
-* Real-world eCommerce functionality
+This project demonstrates my ability to:
 
-This project demonstrates my ability to build and customize a Shopify store with a professional structure.
+* Customize Shopify themes
+* Design a clean and premium UI
+* Implement real-world eCommerce features
 
 ---
 
@@ -30,11 +29,11 @@ This project demonstrates my ability to build and customize a Shopify store with
 
 * 🛍️ Fully functional product pages
 * ⭐ Customer review system (Judge.me)
-* 🎯 Featured collections & collections page
-* 📱 Responsive design (mobile + desktop)
-* ⚡ Fast loading & clean UI
+* 🎯 Featured collections & category layout
+* 📱 Fully responsive (mobile + desktop)
+* ⚡ Clean and optimized UI
 * 🧾 Add to Cart & Buy Now functionality
-* 🎨 Custom homepage layout
+* 🎨 Custom homepage design
 
 ---
 
@@ -48,22 +47,48 @@ locales/
 sections/
 snippets/
 templates/
+screenshots/
 ```
 
 ---
 
-## 🖼️ Store Preview
+## 🖼️ Live Store
 
-🔗 Live Store:
-https://luma-roast.myshopify.com
+🔗 https://luma-roast.myshopify.com
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Homepage UI
+
+![Homepage](screenshots/homepage.png)
+
+---
+
+### 🛍️ Product Page
+
+![Product](screenshots/product.png)
+
+---
+
+### ⭐ Customer Reviews Section
+
+![Reviews](screenshots/reviews.png)
+
+---
+
+### 🛒 Cart & Checkout
+
+![Cart](screenshots/cart.png)
 
 ---
 
 ## 📌 Key Highlights
 
 * Designed a premium coffee brand UI
-* Implemented real-world eCommerce features
-* Structured Shopify theme for scalability
+* Implemented real-world eCommerce workflow
+* Structured Shopify theme professionally
 * Integrated third-party review system
 
 ---
@@ -73,31 +98,31 @@ https://luma-roast.myshopify.com
 * Shopify theme customization
 * Liquid templating basics
 * UI/UX improvement for eCommerce
-* Store performance optimization
+* Real-world project deployment
 
 ---
 
 ## 👨‍💻 Author
 
-Mo Yunus
+**Mo Yunus**
 Electronics & Communication Engineering Student
 
 🔗 GitHub: https://github.com/yuns09
-🔗 LinkedIn: www.linkedin.com/in/mo-yunus-63782035b
+🔗 LinkedIn: (add your profile link)
 
 ---
 
 ## ⭐ Future Improvements
 
 * Payment gateway integration
-* Advanced filtering & search
-* Blog & content marketing pages
-* Performance optimization (Lighthouse 90+)
+* Advanced search & filtering
+* Blog & content pages
+* Performance optimization
 
 ---
 
 ## 📢 Note
 
-This project was created as part of an internship/learning experience and represents a real-world Shopify store setup.
+This project was developed as part of an internship/learning experience and represents a real-world Shopify store implementation.
 
 ---
