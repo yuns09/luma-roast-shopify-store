@@ -1,6 +1,6 @@
 # ☕ Luma Roast – Shopify eCommerce Store
 
-A premium Shopify eCommerce store built using the **Dawn theme**, designed to deliver a clean UI, smooth user experience, and high-conversion layout.
+A premium Shopify eCommerce store built using the Dawn theme, designed to deliver a clean UI, smooth user experience, and high-conversion layout.
 
 ---
 
@@ -79,11 +79,11 @@ https://luma-roast.myshopify.com
 
 ## 👨‍💻 Author
 
-**Mo Yunus**
+Mo Yunus
 Electronics & Communication Engineering Student
 
 🔗 GitHub: https://github.com/yuns09
-🔗 LinkedIn: (add your profile link)
+🔗 LinkedIn: www.linkedin.com/in/mo-yunus-63782035b
 
 ---
 
